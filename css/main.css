@@ -1,0 +1,29 @@
+body{
+background-color: green;
+}
+
+.dado{
+background-image:url(https://i.ibb.co/pzrfpv1/dados2.png);
+background-position:-803px;
+width:157px;
+height:156px;
+}
+#contenedor_dados{
+display:flex;
+width:315px;
+margin:0 auto;
+}
+
+#boton_tirar{
+display:block;
+width:100px;
+height:60px;
+margin:10px auto;
+background-color:#A62E2E;
+color:#F2D857;
+border:0;
+border-radius:10px;
+cursor:pointer;
+}
+
+
